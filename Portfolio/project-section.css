@@ -24,7 +24,9 @@
 }
 
 .project-image {
-  height: calc(100% - 6.8rem);
+  height: 400px;
+  width: 300px;
+  margin: 40px;
 }
 
 .project-title {
