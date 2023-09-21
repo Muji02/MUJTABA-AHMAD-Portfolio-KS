@@ -11,6 +11,10 @@
   height: 60px;
   justify-content: end;
   align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 .options {
