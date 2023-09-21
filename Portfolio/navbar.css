@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.navbar {
+  background-color: maroon;
+  color: white;
+  display: flex;
+  height: 60px;
+  justify-content: end;
+  align-items: center;
+}
+
+.options {
+  display: flex;
+  margin-right: 20px;
+}
+
+.options div {
+  margin: 20px;
+  font-size: 20px;
+}
