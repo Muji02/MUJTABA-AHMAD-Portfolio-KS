@@ -1,0 +1,19 @@
+.contact-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 80vh;
+  background-color: #303841;
+  color: white;
+}
+
+.contact-section h2 {
+  font-weight: 700;
+}
+
+.contact-links {
+  display: flex;
+}
